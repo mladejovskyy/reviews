@@ -4,14 +4,14 @@ const reviews = [
         id: 1,
         name: "Tomáš Mladějovský",
         job: "Full stack Developer",
-        img: "../../../../Screenshot_17.png",
+        img: "images/Screenshot_17.png",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis dolorum, labore neque asperiores dolore ut, quaerat sed tenetur suscipit amet corrupti exercitationem dolor voluptatem quidem odio adipisci mollitia optio ipsa."
     },
     {
         id: 2,
         name: "Suchoš",
         job: "Tester braníků",
-        img: "../../../../Screenshot_18.png",
+        img: "images/Screenshot_18.png",
         text: "Jmenuji se Tomáš a rád piju dvoulitrovej brancl ve slevě."
     }
 ];
